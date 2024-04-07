@@ -26,12 +26,12 @@
 // TODO: Add flags
 
 #box(esei, baseline: 6pt)
-#link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *2021 -- 2025* \
+#link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *Sept. 2021 -- Jun. 2025* \
 Grado en Ingeniería Informática [Media: 8.0] #h(1fr) Ourense, España \
 - Cursos notables: _Álgebra_, _Análisis_, _Estadística_, _Programación I & II_, _Algoritmos y Estructuras de Datos_ I & II, _Arquitectura de Computadoras I & II_.
 
 #box(pk, baseline: 6pt)
-*#link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*]* #h(1fr) *2023 -- 2024* \
+*#link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*]* #h(1fr) *Sept. 2023 -- Jun. 2024* \
 Grado en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 - Experiencia ERASMUS. Cursos: _Parallel and Distributed Programming_, _Elements of AI_, _Arduino Programming_, _Data Mining with R_, _Object Oriented Programming with C++_, _Mobile Technologies and Programming_, _Database Programming and Optimization_, _Logic Foundation of Computer Science_, _Internet Technologies_, _Processing of Data using Apache Shark_, _Computer Image Processing_.
 
