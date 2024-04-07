@@ -1,0 +1,3 @@
+esei-icon-192x192.png: https://esei.uvigo.es/wp-content/uploads/2020/05/cropped-esei-icon-192x192.png
+pk-icon-426x426.png: https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_SYGNET.png
+uvigomotorsport-icon-500x500.png: https://www.uvigomotorsport.com/wp-content/uploads/photo-gallery/thumb/UVigoMotorsportNegativeLogoBackgroundSquare.png
