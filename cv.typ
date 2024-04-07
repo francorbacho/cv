@@ -41,7 +41,7 @@ Grado en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 // TODO: Add link to UVigo Motorsport
 
 #box(uvigomotorsport, baseline: 6pt) #linebreak()
-*UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
+*UVigo Motorsport* #h(1fr) *Nov. 2023 -- Presente* \
 SCRUM Master #linebreak()
 Responsable de Software en UVigo Motorsport, en el departamento Driverless.
 
