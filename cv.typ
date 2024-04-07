@@ -71,15 +71,15 @@ Software Developer at UVigo Motorsport, in the Driverless Department, I contribu
   [Deployment on ARM-based devices using Nvidia drivers and the YOLO framework]
 )
 
-== Projects
-#chiline()
+#columns(2)[
+  == Contribuciones _Open Source_
+  #chiline()
 
-*#lorem(2)* #h(1fr) 2333/23 -- 2333/23 \
-#lorem(5) #h(1fr) #lorem(2) \
-- #lorem(20)
-- #lorem(30)
-- #lorem(40)
+  - Mejorando los mensajes de error del #link("https://github.com/rust-lang/rust/pull/115324")[compilador de Rust]
+  - #link("https://github.com/francorbacho/hare-lua")[_Bindings_ para Lua] en un lenguaje de programación experimental
+  #colbreak()
 
-== Idiomas
-#chiline()
-Inglés fluido, Español y Gallego nativo
+  == Idiomas
+  #chiline()
+  Inglés fluido, Español y Gallego nativo
+]
