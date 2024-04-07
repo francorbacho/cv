@@ -22,6 +22,7 @@
 
 = Francisco Corbacho Flores
 
+// TODO: Add link to linkedin? Webpage?
 #link("mailto:francisco.corbacho@alumnos.uvigo.es") |
 #link("https://github.com/francorbacho")[github.com/francorbacho]
 
@@ -43,13 +44,31 @@ Grado en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 == Experiencia
 #chiline()
 
-#box(uvigomotorsport, baseline: 6pt) *UVigo Motorsport* #h(1fr) *2022 -- 2023* \
-// #lorem(5) #h(1fr) #lorem(2) \
+// TODO: Add link to UVigo Motorsport
+
+#box(uvigomotorsport, baseline: 6pt) #linebreak()
+*UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
+SCRUM Master #linebreak()
+Head of Software at UVigo Motorsport in the Driverless Department.
+
+Duties and responsibilities:
 #list(
-  indent: 20pt,
-  lorem(20),
-  lorem(30),
-  lorem(40),
+  [Led a team of 8-12 developers],
+  [Responsible for task allocation and project management],
+  [Fostering a collaborative work environment],
+  [Instructed team members with development courses (ROS, Python, Git)],
+)
+
+#box(uvigomotorsport, baseline: 6pt) #linebreak()
+*UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
+Desarrollador #linebreak()
+Software Developer at UVigo Motorsport, in the Driverless Department, I contributed to the Department by:
+#list(
+  [Utilizing Arduino programming for embedded systems to enable mechanical actuation],
+  [Self-learning ROS programming and sharing knowledge through training courses],
+  [Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC],
+  [Integrating our autonomous system with an external Gazebo simulator],
+  [Deployment on ARM-based devices using Nvidia drivers and the YOLO framework]
 )
 
 == Projects
