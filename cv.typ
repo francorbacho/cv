@@ -28,7 +28,7 @@
 #box(esei, baseline: 6pt)
 #link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *2021 -- 2025* \
 Grado en Ingeniería Informática [Media: 8.0] #h(1fr) Ourense, España \
-- Cursos remarcables: _Álgebra_, _Análisis_, _Estadística_, _Programación I & II_, _Algorítmos y Estructuras de Datos_ I & II, _Arquitectura de Computadoras I & II_.
+- Cursos notables: _Álgebra_, _Análisis_, _Estadística_, _Programación I & II_, _Algoritmos y Estructuras de Datos_ I & II, _Arquitectura de Computadoras I & II_.
 
 #box(pk, baseline: 6pt)
 *#link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*]* #h(1fr) *2023 -- 2024* \
@@ -50,7 +50,7 @@ Obligaciones y responsabilidades:
   [Dirigir un equipo de 8-12 desarrolladores],
   [Responsable de asignación de tareas y gestión de proyectos],
   [Fomentar un entorno de trabajo colaborativo],
-  [Instruír a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)],
+  [Instruir a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)],
   [Responsable de testing y CI con GitHub Actions],
 )
 
@@ -60,9 +60,9 @@ Desarrollador #linebreak()
 Desarrollador de Software en UVigo Motorsport, en el departamento Driverless.
 #list(
   [Uso de programación con Arduino para sistemas embebidos (actuación mecánica)],
-  [Impartición de cursos de formación de ROS],
+  [Impartiendo cursos de formación de ROS],
   [Investigando y desarrollando algoritmos para el subsistemas de control (Pure Pursuit, PID, MPC, ...)],
-  [Integrar el sistema autonomo con el simulador externo Gazebo],
+  [Integrar el sistema autónomo con el simulador externo Gazebo],
   [Deployment en dispositivos basados en ARM usando Nvidia y el framework YOLO]
 )
 
