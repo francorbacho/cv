@@ -1,4 +1,5 @@
 #import "alt.typ": esei, pk, uvigomotorsport
+#import "secrets.typ": phone
 
 #set text(lang: "es")
 
@@ -17,6 +18,7 @@
 = Francisco Corbacho Flores
 
 // TODO: Add link to linkedin? Webpage?
+#phone |
 #link("mailto:francisco.corbacho@alumnos.uvigo.es") |
 #link("https://github.com/francorbacho")[github.com/francorbacho]
 
