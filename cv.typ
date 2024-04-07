@@ -82,4 +82,8 @@ Software Developer at UVigo Motorsport, in the Driverless Department, I contribu
   == Idiomas
   #chiline()
   Inglés fluido, Español y Gallego nativo
+
+  == Tecnologías
+  #chiline()
+  Docker, Linux, Unix, C & C++, Python, Java, Arduino, Rust
 ]
