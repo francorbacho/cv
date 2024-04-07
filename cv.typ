@@ -79,3 +79,7 @@ Software Developer at UVigo Motorsport, in the Driverless Department, I contribu
 - #lorem(20)
 - #lorem(30)
 - #lorem(40)
+
+== Idiomas
+#chiline()
+Inglés fluido, Español y Gallego nativo
