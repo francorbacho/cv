@@ -38,12 +38,9 @@ Grado en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 == Experiencia
 #chiline()
 
-// TODO: Add link to UVigo Motorsport
-
-#box(uvigomotorsport, baseline: 6pt) #linebreak()
-*UVigo Motorsport* #h(1fr) *Nov. 2023 -- Presente* \
-SCRUM Master #linebreak()
-Responsable de Software en UVigo Motorsport, en el departamento Driverless.
+#box(uvigomotorsport, baseline: 6pt)
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Presente* \
+SCRUM Master, Responsable de Software
 
 Obligaciones y responsabilidades:
 #list(
@@ -54,10 +51,10 @@ Obligaciones y responsabilidades:
   [Responsable de testing y CI con GitHub Actions],
 )
 
-#box(uvigomotorsport, baseline: 6pt) #linebreak()
-*UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
-Desarrollador #linebreak()
-Desarrollador de Software en UVigo Motorsport, en el departamento Driverless.
+#box(uvigomotorsport, baseline: 6pt)
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2022 -- Sept. 2023* \
+Desarrollador de Software
+
 #list(
   [Uso de programación con Arduino para sistemas embebidos (actuación mecánica)],
   [Impartiendo cursos de formación de ROS],
