@@ -6,12 +6,6 @@
 
 #show link: underline
 
-// Uncomment the following lines to adjust the size of text
-// The recommend resume text size is from `10pt` to `12pt`
-// #set text(
-//   size: 12pt,
-// )
-
 #set page(
   margin: (x: 0.9cm, y: 1.3cm),
 )
