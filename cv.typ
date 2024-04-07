@@ -49,26 +49,27 @@ Grado en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 #box(uvigomotorsport, baseline: 6pt) #linebreak()
 *UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
 SCRUM Master #linebreak()
-Head of Software at UVigo Motorsport in the Driverless Department.
+Responsable de Software en UVigo Motorsport, en el departamento Driverless.
 
-Duties and responsibilities:
+Obligaciones y responsabilidades:
 #list(
-  [Led a team of 8-12 developers],
-  [Responsible for task allocation and project management],
-  [Fostering a collaborative work environment],
-  [Instructed team members with development courses (ROS, Python, Git)],
+  [Dirigir un equipo de 8-12 desarrolladores],
+  [Responsable de asignación de tareas y gestión de proyectos],
+  [Fomentar un entorno de trabajo colaborativo],
+  [Instruír a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)],
+  [Responsable de testing y CI con GitHub Actions],
 )
 
 #box(uvigomotorsport, baseline: 6pt) #linebreak()
 *UVigo Motorsport* #h(1fr) *Nov. 2022 -- Sept. 2023* \
 Desarrollador #linebreak()
-Software Developer at UVigo Motorsport, in the Driverless Department, I contributed to the Department by:
+Desarrollador de Software en UVigo Motorsport, en el departamento Driverless.
 #list(
-  [Utilizing Arduino programming for embedded systems to enable mechanical actuation],
-  [Self-learning ROS programming and sharing knowledge through training courses],
-  [Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC],
-  [Integrating our autonomous system with an external Gazebo simulator],
-  [Deployment on ARM-based devices using Nvidia drivers and the YOLO framework]
+  [Uso de programación con Arduino para sistemas embebidos (actuación mecánica)],
+  [Impartición de cursos de formación de ROS],
+  [Investigando y desarrollando algoritmos para el subsistemas de control (Pure Pursuit, PID, MPC, ...)],
+  [Integrar el sistema autonomo con el simulador externo Gazebo],
+  [Deployment en dispositivos basados en ARM usando Nvidia y el framework YOLO]
 )
 
 #columns(2)[
