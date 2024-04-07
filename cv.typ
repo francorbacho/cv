@@ -33,7 +33,7 @@
 
 #box(esei, baseline: 6pt)
 #link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *2021 -- 2025* \
-Grado en Ingeniería Informática #h(1fr) Ourense, España \
+Grado en Ingeniería Informática [Media: 8.0] #h(1fr) Ourense, España \
 - Cursos remarcables: _Álgebra_, _Análisis_, _Estadística_, _Programación I & II_, _Algorítmos y Estructuras de Datos_ I & II, _Arquitectura de Computadoras I & II_.
 
 #box(pk, baseline: 6pt)
