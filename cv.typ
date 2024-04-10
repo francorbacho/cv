@@ -79,5 +79,5 @@ Desarrollador de Software
 
   == Tecnologías
   #chiline()
-  Docker, Linux, Unix, C & C++, Python, Java, Arduino, Rust
+  Docker, Linux, Unix, Bash, C & C++, Python, Java, Git, GitHub, Arduino, Rust, SQL
 ]
