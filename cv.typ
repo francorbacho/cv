@@ -70,7 +70,7 @@ Desarrollador de Software
   == Contribuciones _Open Source_
   #chiline()
 
-  - Mejorando los mensajes de error del #link("https://github.com/rust-lang/rust/pull/115324")[compilador de Rust]
+  - Mejorando los mensajes de error del #link("https://github.com/rust-lang/rust/pull/115324")[compilador de Rust]. Tuve que trabajar de cero en una _codebase_ desconocida para mí
   - #link("https://github.com/francorbacho/cheng")[Motor de ajedrez de alto rendimiento]. Implementa paralelismo y técnicas modernas de optimización. Requirió aprender sobre optimización a bajo nivel, CD, WebAssembly y programación orientada a datos
   - #link("https://github.com/francorbacho/hare-lua")[_Bindings_ para Lua] en un lenguaje de programación experimental
   - #link("https://github.com/francorbacho/raylee")[Raytracer] implementado usando concurrencia y _multiprocessing_, que permite _scripting_ para generar escenas procedurales
