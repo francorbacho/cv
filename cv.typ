@@ -17,10 +17,11 @@
 
 = Francisco Corbacho Flores
 
-// TODO: Add link to linkedin? Webpage?
+// TODO: Add link to Webpage?
 #phone |
 #link("mailto:francisco.corbacho@alumnos.uvigo.es") |
-#link("https://github.com/francorbacho")[github.com/francorbacho]
+#link("https://github.com/francorbacho")[github.com/francorbacho] |
+#link("https://linkedin.com/in/francorbacho")[linkedin/francorbacho]
 
 == Educación
 #chiline()
