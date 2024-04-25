@@ -83,4 +83,13 @@ Desarrollador de Software
   == Tecnologías
   #chiline()
   Docker, Linux, Unix, Bash, C & C++, Python, Java, Kotlin, Git, GitHub, Computer Vision, Nvidia, Arduino, Rust, SQL, ROS2, HTML, CSS, JavaScript, WebAssembly
+
+
+  == Competiciones
+  #chiline()
+
+  - *`AdaByron`* - Concurso nacional en equipos #h(1fr) *2023*
+  - *`Advent of Code`* - Concurso internacional #h(1fr) *2022, 2023*
+  - *`C3TF`* - CTF de la UVigo y UDC en equipos #h(1fr) *2023, 2024*
+  - *`CSCG`* - CTF internacional individual #h(1fr) *2023*
 ]
