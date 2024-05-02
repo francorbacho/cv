@@ -32,7 +32,7 @@ ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
 
 #box(uvigomotorsport, baseline: 6pt)
 #link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Present* \
-SCRUM Master, Head of Software
+Scrum Master, Head of Software
 
 Duties and responsibilities:
 #list(

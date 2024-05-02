@@ -32,7 +32,7 @@ Grado ERASMUS en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polo
 
 #box(uvigomotorsport, baseline: 6pt)
 #link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Presente* \
-SCRUM Master, Responsable de Software
+Scrum Master, Responsable de Software
 
 Obligaciones y responsabilidades:
 #list(
