@@ -35,26 +35,22 @@ ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
 Scrum Master, Head of Software
 
 Duties and responsibilities:
-#list(
-  [Led a team of 8-12 developers],
-  [Responsible for task allocation and project management],
-  [Fostering a collaborative work environment],
-  [Instructed team members with development courses (ROS, Python, Git)],
-  [Testing and CI with GitHub Actions],
-)
+- Led a team of 8-12 developers
+- Responsible for task allocation and project management
+- Fostering a collaborative work environment
+- Instructed team members with development courses (ROS, Python, Git)
+- Testing and CI with GitHub Actions
 
 #box(uvigomotorsport, baseline: 6pt)
 #link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2022 -- Sept. 2023* \
 Software Developer
 
 I contributed to the Department by:
-#list(
-  [Utilizing Arduino programming for embedded systems to enable mechanical actuation],
-  [Self-learning ROS programming and sharing knowledge through training courses],
-  [Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC],
-  [Integrating our autonomous system with an external Gazebo simulator],
-  [Deployment on ARM-based devices using Nvidia drivers and the YOLO framework],
-)
+- Utilizing Arduino programming for embedded systems to enable mechanical actuation
+- Self-learning ROS programming and sharing knowledge through training courses
+- Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC
+- Integrating our autonomous system with an external Gazebo simulator
+- Deployment on ARM-based devices using Nvidia drivers and the YOLO framework
 
 #columns(2)[
   == Open Source Contributions
