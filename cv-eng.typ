@@ -31,7 +31,7 @@ ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
 #chiline()
 
 #box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Present* \
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2023 -- Sept. 2024* \
 Scrum Master, Head of Software
 
 Duties and responsibilities:
@@ -44,7 +44,7 @@ Duties and responsibilities:
 )
 
 #box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2022 -- Sept. 2023* \
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2022 -- Sept. 2023* \
 Software Developer
 
 I contributed to the Department by:
