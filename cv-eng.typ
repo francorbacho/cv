@@ -20,7 +20,7 @@
 #box(esei, baseline: 6pt)
 #link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *Sept. 2021 -- Jun. 2025* \
 Bachelor in Software Engineering [GPA: 3.2/4.0] #h(1fr) Ourense, Spain \
-- Coursework includes: _Algebra_, _Analysis_, _Statistics_, _Programming I & II_, _Algorithms y Data Structures I & II_, _Computer Architecture I & II_.
+- Coursework includes: _Algebra_, _Analysis_, _Statistics_, _Programming I & II_, _Algorithms and Data Structures I & II_, _Computer Architecture I & II_.
 
 #box(pk, baseline: 6pt)
 #link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*] #h(1fr) *Sept. 2023 -- Jun. 2024* \
