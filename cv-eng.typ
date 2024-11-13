@@ -1,5 +1,5 @@
 #import "cv.typ": banner, chiline, technologies
-#import "alt.typ": esei, pk, uvigomotorsport
+#import "alt.typ": esei, pk, uvigomotorsport, optare
 
 #show heading: set text(font: "Linux Biolinum")
 #show link: underline
@@ -29,6 +29,11 @@ ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
 
 == Experience
 #chiline()
+
+#box(optare, baseline: 6pt)
+#link("https://optaresolutions.com/")[*Optare Solutions*] #h(1fr) *Aug. 2024 -- Oct. 2024* \
+Internship. Worked as a full stack developer.
+
 
 #box(uvigomotorsport, baseline: 6pt)
 #link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2023 -- Sept. 2024* \
