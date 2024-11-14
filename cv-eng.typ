@@ -12,21 +12,6 @@
 
 #banner
 
-== Education
-#chiline()
-
-// TODO: Add flags
-
-#box(esei, baseline: 6pt)
-#link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *Sept. 2021 -- Jun. 2025* \
-Bachelor in Software Engineering [GPA: 3.2/4.0] #h(1fr) Ourense, Spain \
-- Coursework includes: _Algebra_, _Analysis_, _Statistics_, _Programming I & II_, _Algorithms and Data Structures I & II_, _Computer Architecture I & II_.
-
-#box(pk, baseline: 6pt)
-#link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*] #h(1fr) *Sept. 2023 -- Jun. 2024* \
-ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
-- Coursework includes: _Elements of AI_, _Computer Image Processing_, _Arduino Programming_, _Mobile Technologies and Programming_, _Internet Technologies_.
-
 == Experience
 #chiline()
 
@@ -56,6 +41,21 @@ I contributed to the Department by:
 - Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC
 - Integrating our autonomous system with an external Gazebo simulator
 - Deployment on ARM-based devices using Nvidia drivers and the YOLO framework
+
+== Education
+#chiline()
+
+// TODO: Add flags
+
+#box(esei, baseline: 6pt)
+#link("https://esei.uvigo.es/")[*Universidade de Vigo*] #h(1fr) *Sept. 2021 -- Jun. 2025* \
+Bachelor in Software Engineering [GPA: 3.2/4.0] #h(1fr) Ourense, Spain \
+- Coursework includes: _Algebra_, _Analysis_, _Statistics_, _Programming I & II_, _Algorithms and Data Structures I & II_, _Computer Architecture I & II_.
+
+#box(pk, baseline: 6pt)
+#link("https://www.pk.edu.pl/index.php?lang=en")[*Politechnika Krakowska*] #h(1fr) *Sept. 2023 -- Jun. 2024* \
+ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
+- Coursework includes: _Elements of AI_, _Computer Image Processing_, _Arduino Programming_, _Mobile Technologies and Programming_, _Internet Technologies_.
 
 #columns(2)[
   == Open Source Contributions
