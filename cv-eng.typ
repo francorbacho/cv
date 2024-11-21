@@ -1,7 +1,6 @@
 #import "cv.typ": banner, chiline, technologies
 #import "alt.typ": esei, pk, uvigomotorsport, optare
 
-#show heading: set text(font: "Linux Biolinum")
 #show link: underline
 #set par(justify: true)
 #set page(
