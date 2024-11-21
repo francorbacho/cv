@@ -5,7 +5,7 @@
 
 // TODO: Add link to Webpage?
 #let banner = [#phone |
-    #link("mailto:francisco.corbacho@alumnos.uvigo.es") |
+    #link("mailto:francisco.corbacho@alumnado.uvigo.gal") |
     #link("https://github.com/francorbacho")[github.com/francorbacho] |
     #link("https://linkedin.com/in/francorbacho")[linkedin/francorbacho]
 ]
