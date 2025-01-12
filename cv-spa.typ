@@ -16,8 +16,13 @@
 
 #box(optare, baseline: 6pt)
 #link("https://optaresolutions.com/")[*Optare Solutions*] #h(1fr) *Aug. 2024 -- Oct. 2024* \
-Internship. Worked as a full stack developer.
+Estudiante en prácticas
 
+- Desarrollador full stack, incluyendo BBDD, infraestructuras
+- Experiencia en despliegue en producción
+- Responsable de Testing QA
+- Integración de AWS con sistemas propios
+- Desarrollo de herramientas para debugging
 
 #box(uvigomotorsport, baseline: 6pt)
 #link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Sept. 2024* \
