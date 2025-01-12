@@ -1,7 +1,6 @@
 #import "cv.typ": banner, chiline, technologies
-#import "alt.typ": esei, pk, uvigomotorsport
+#import "alt.typ": esei, pk, uvigomotorsport, optare
 
-#show heading: set text(font: "Linux Biolinum")
 #show link: underline
 #set par(justify: true)
 #set page(
@@ -11,6 +10,35 @@
 = Francisco Corbacho Flores
 
 #banner
+
+== Experiencia
+#chiline()
+
+#box(optare, baseline: 6pt)
+#link("https://optaresolutions.com/")[*Optare Solutions*] #h(1fr) *Aug. 2024 -- Oct. 2024* \
+Internship. Worked as a full stack developer.
+
+
+#box(uvigomotorsport, baseline: 6pt)
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Sept. 2024* \
+Scrum Master, Responsable de Software
+
+Obligaciones y responsabilidades:
+- Dirigir un equipo de 8-12 desarrolladores
+- Responsable de asignación de tareas y gestión de proyectos
+- Fomentar un entorno de trabajo colaborativo
+- Instruir a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)
+- Responsable de testing y CI con GitHub Actions
+
+#box(uvigomotorsport, baseline: 6pt)
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2022 -- Sept. 2023* \
+Desarrollador de Software
+
+- Uso de programación con Arduino para sistemas embebidos (actuación mecánica)
+- Impartiendo cursos de formación de ROS
+- Investigando y desarrollando algoritmos para el subsistemas de control (Pure Pursuit, PID, MPC, ...)
+- Integrar el sistema autónomo con el simulador externo Gazebo
+- Deployment en dispositivos basados en ARM usando Nvidia y el framework YOLO
 
 == Educación
 #chiline()
@@ -27,34 +55,6 @@ Grado en Ingeniería Informática [Media: 8.0] #h(1fr) Ourense, España \
 Grado ERASMUS en _Computer Science and Telecommunications_ #h(1fr) Kraków, Polonia \
 - Cursos destacados: _Elements of AI_, _Computer Image Processing_, _Arduino Programming_, _Mobile Technologies and Programming_, _Internet Technologies_.
 
-== Experiencia
-#chiline()
-
-#box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2023 -- Presente* \
-Scrum Master, Responsable de Software
-
-Obligaciones y responsabilidades:
-#list(
-  [Dirigir un equipo de 8-12 desarrolladores],
-  [Responsable de asignación de tareas y gestión de proyectos],
-  [Fomentar un entorno de trabajo colaborativo],
-  [Instruir a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)],
-  [Responsable de testing y CI con GitHub Actions],
-)
-
-#box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Nov. 2022 -- Sept. 2023* \
-Desarrollador de Software
-
-#list(
-  [Uso de programación con Arduino para sistemas embebidos (actuación mecánica)],
-  [Impartiendo cursos de formación de ROS],
-  [Investigando y desarrollando algoritmos para el subsistemas de control (Pure Pursuit, PID, MPC, ...)],
-  [Integrar el sistema autónomo con el simulador externo Gazebo],
-  [Deployment en dispositivos basados en ARM usando Nvidia y el framework YOLO]
-)
-
 #columns(2)[
   == Contribuciones _Open Source_
   #chiline()
@@ -67,7 +67,7 @@ Desarrollador de Software
 
   == Idiomas
   #chiline()
-  Inglés fluido, Español y Gallego nativo
+  Inglés fluido, Español y Gallego
 
   == Tecnologías
   #chiline()
