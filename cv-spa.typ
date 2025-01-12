@@ -27,7 +27,7 @@ Obligaciones y responsabilidades:
 - Dirigir un equipo de 8-12 desarrolladores
 - Responsable de asignación de tareas y gestión de proyectos
 - Fomentar un entorno de trabajo colaborativo
-- Instruir a los miembros de del equipo con cursos de desarrollo (ROS, Python, Git)
+- Instruir a los miembros de del equipo con cursos de desarrollo (ROS, C++, Python, Git)
 - Responsable de testing y CI con GitHub Actions
 
 #box(uvigomotorsport, baseline: 6pt)

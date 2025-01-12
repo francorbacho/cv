@@ -27,7 +27,7 @@ Duties and responsibilities:
 - Led a team of 8-12 developers
 - Responsible for task allocation and project management
 - Fostering a collaborative work environment
-- Instructed team members with development courses (ROS, Python, Git)
+- Instructed team members with development courses (ROS, C++, Python, Git)
 - Testing and CI with GitHub Actions
 
 #box(uvigomotorsport, baseline: 6pt)
