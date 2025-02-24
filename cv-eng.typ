@@ -16,30 +16,57 @@
 
 #box(optare, baseline: 6pt)
 #link("https://optaresolutions.com/")[*Optare Solutions*] #h(1fr) *Aug. 2024 -- Oct. 2024* \
-Internship. Worked as a full stack developer.
+Internship
 
+#grid(
+  columns: 4,
+  column-gutter: 3%,
+  grid.cell(colspan: 3)[
+    - Full-stack developer, including databases and infrastructure
+    - Experience deploying medium-sized projects to production servers
+    - Responsible for QA testing
+    - AWS integration with in-house systems
+    - Developing debugging tools
+  ],
+  [
+    *Technologies*:
+    - Docker + Kubernetes in AWS for *deployment*
+    - Java + Spring Boot for *backend*
+    - Angular JS for *frontend*
+    - MuleSoft for *API Integration*⁠
+⁠⁠
+  ]
+)
 
 #box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2023 -- Sept. 2024* \
-Scrum Master, Head of Software
+#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2022 -- Sept. 2024* \
 
-Duties and responsibilities:
-- Led a team of 8-12 developers
-- Responsible for task allocation and project management
-- Fostering a collaborative work environment
-- Instructed team members with development courses (ROS, C++, Python, Git)
-- Testing and CI with GitHub Actions
+#let first = [
+  // *Sept. 2022 -- Sept. 2023* \
+  *2023 Season* \
+  Software Developer
 
-#box(uvigomotorsport, baseline: 6pt)
-#link("https://uvigomotorsport.com/")[*UVigo Motorsport Driverless*] #h(1fr) *Sept. 2022 -- Sept. 2023* \
-Software Developer
+  I contributed to the Department by:
+  - Utilizing Arduino programming for embedded systems to enable mechanical actuation
+  - Self-learning ROS programming and sharing knowledge through training courses
+  - Integrating our autonomous system with an external Gazebo simulator
+  - Deployment on ARM-based devices using Nvidia drivers and the YOLO framework
+]
 
-I contributed to the Department by:
-- Utilizing Arduino programming for embedded systems to enable mechanical actuation
-- Self-learning ROS programming and sharing knowledge through training courses
-- Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC
-- Integrating our autonomous system with an external Gazebo simulator
-- Deployment on ARM-based devices using Nvidia drivers and the YOLO framework
+#let second = [
+  *2024 Season* \
+  Scrum Master, Head of Software
+
+  Duties and responsibilities:
+  - Led a team of 8-12 developers
+  - Responsible for task allocation and project management
+  - Fostering a collaborative work environment
+  - Instructed team members with development courses (ROS, Python, Git)
+  - Testing and CI with GitHub Actions
+  - Researching and developing control subsystem approaches, including Pure Pursuit, PID, and MPC
+]
+
+#grid(columns: 2, column-gutter: 4%, first, second)
 
 == Education
 #chiline()
@@ -68,17 +95,14 @@ ERASMUS in _Computer Science and Telecommunications_ #h(1fr) Kraków, Poland \
 
   == Languages
   #chiline()
-  Fluent English, Native Spanish and Galician
-
-  == Technologies
-  #chiline()
-  #technologies
+  Fluent English and Native Spanish
 
   == Competitive Programming
   #chiline()
 
-  - *`AdaByron`* - National teams competiton #h(1fr) *2023*
+  - *`AdaByron`* - National teams competition #h(1fr) *2023*
   - *`Advent of Code`* - International competition #h(1fr) *2022, 2023*
   - *`C3TF`* - Team CTF by UVigo and UDC #h(1fr) *2023, 2024*
   - *`CSCG`* - International CTF #h(1fr) *2023*
+  - *`HackUDC`* - \#1 Winner in CTF with 300 participants #h(1fr) *2025*
 ]
